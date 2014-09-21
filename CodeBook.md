@@ -91,3 +91,5 @@ creates a second, independent tidy dataset with an average of each variable for 
 In other words, same type of measurements for a particular subject and activity are averaged into one value and the tidy data set contains these mean values only. 
 The processed tidy data set is also exported as .txt file.
 
+
+more details about the process are provided in the script.
