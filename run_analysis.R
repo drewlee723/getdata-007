@@ -1,4 +1,3 @@
-setwd("./Documents/Rdir")
 
 # First, we must read the .txt files into our Environment
 # assuming that the "UCI HAR Dataset" is existing in the working directory,
